@@ -28,7 +28,7 @@ export default function SortingAnimations() {
     }
     const temp = [];
     for (let i = 0; i < size; i++) {
-      temp[i] = Math.floor((Math.random() * 100000000) % 590) + 10;
+      temp[i] = Math.floor((Math.random() * 100000000) % 540) + 10;
     }
     setArray(temp);
   };
