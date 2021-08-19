@@ -1,6 +1,5 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Have a look on Sorting Visualiser https://srinivas-teja-18.netlify.app
 
 ## Available Scripts
 
